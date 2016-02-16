@@ -2,4 +2,4 @@
 
 usage
 
-./copy_android_file.sh APP_PACKAGE_NAME DIR FILE
+./copy_android_file.sh <APP_PACKAGE_NAME> <DIR> <FILE>
